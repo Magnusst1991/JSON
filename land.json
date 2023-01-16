@@ -1,0 +1,11 @@
+{
+    "Nasjoner":[{"Land" : "Norge",
+    "hovedstad" : "Oslo",
+    "innbyggere" : 5480000,
+    "Medlem av EU": "Nei"},
+    {"Land" : "Sverige",
+    "hovedstad" : "Stockholm",
+    "innbyggere" : 10420000,
+    "Medlem av EU": "Ja"}]
+    
+}
