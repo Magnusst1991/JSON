@@ -1,11 +1,11 @@
 {
     "Nasjoner":[{"Land" : "Norge",
     "hovedstad" : "Oslo",
-    "innbyggere" : 5480000,
-    "Medlem_av_EU": "Nei"},
+    "Medlem_av_EU": "Nei",
+    "innbyggere" : 5480000},
     {"Land" : "Sverige",
     "hovedstad" : "Stockholm",
-    "innbyggere" : 10420000,
-    "Medlem_av_EU": "Ja"}]
+    "Medlem_av_EU": "Ja",
+    "innbyggere" : 10420000}]
     
 }
