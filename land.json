@@ -6,6 +6,10 @@
     {"Land" : "Sverige",
     "hovedstad" : "Stockholm",
     "Medlem_av_EU": "Ja",
-    "innbyggere" : 10420000}]
+    "innbyggere" : 10420000},
+    {"Land" : "Storbritannia",
+    "hovedstad" : "London",
+    "Medlem_av_EU": "Nei",
+    "innbyggere" : 67330000}]
     
 }

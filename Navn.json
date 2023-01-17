@@ -1,6 +1,12 @@
 {
+    "Larer": [{
     "navn" : "Kaare",
     "yrke" : "Lektor med tillegg",
     "alder" : 39,
+    "kontaktlarer": "Nei"},
+    {"navn": "Magnus",
+    "yrke" : "Lektor med tillegg",
+    "alder" : 31,
     "kontaktlarer": "Nei"
+    }]
 }
