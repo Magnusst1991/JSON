@@ -10,6 +10,14 @@
     {"Land" : "Storbritannia",
     "hovedstad" : "London",
     "Medlem_av_EU": "Nei",
-    "innbyggere" : 67330000}]
+    "innbyggere" : 67330000},
+    {"Land" : "Island",
+    "hovedstad" : "Reyjavik",
+    "Medlem_av_EU": "Nei",
+    "innbyggere" : 372520},
+    {"Land" : "Spania",
+    "hovedstad" : "Madrid",
+    "Medlem_av_EU": "Ja",
+    "innbyggere" : 47420000}]
     
 }
