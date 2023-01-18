@@ -1,7 +1,7 @@
 {
     "Norden":[{"Land" : "Norge",
     "hovedstad" : "Oslo",
-    "Medlem_av_EU": "Nei",
+    "Medlem av_EU": "Nei",
     "innbyggere" : 5480000},
     {"Land" : "Sverige",
     "hovedstad" : "Stockholm",
@@ -9,15 +9,15 @@
     "innbyggere" : 10420000},
     {"Land" : "Danmark",
     "hovedstad" : "København",
-    "Medlem_av_EU": "Ja",
+    "Medlem av_EU": "Ja",
     "innbyggere" : 5857000},
     {"Land" : "Island",
     "hovedstad" : "Reyjavik",
-    "Medlem_av_EU": "Nei",
+    "Medlem av_EU": "Nei",
     "innbyggere" : 372520},
     {"Land" : "Finland",
     "hovedstad" : "Helsinki",
-    "Medlem_av_EU": "Ja",
+    "Medlem av_EU": "Ja",
     "innbyggere" : 5541000}]
     
 }
